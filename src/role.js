@@ -1,7 +1,6 @@
 function Role(props){
 
-    console.log("Role List-->",props.RoleList);
-
+// Removing extra code from role file
     return(
 
           <div>
